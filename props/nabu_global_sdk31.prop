@@ -1,0 +1,3 @@
+ro.build.fingerprint=Xiaomi/nabu_global/nabu:12/RKQ1.200826.002/V13.1.3.0.SKXMIXM:user/release-keys
+ro.build.description=nabu_global-user 12 SKQ1.220303.001 V13.1.3.0.SKXMIXM release-keys
+ro.build.version.security_patch=2022-10-01
